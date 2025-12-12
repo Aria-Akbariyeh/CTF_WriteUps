@@ -145,17 +145,54 @@ enum4linux-ng HTB | tee enum4linux-ng.log
 
 Bruteforcing using the known username/passwords:
 
+
+```powershell
+# command
+nxc smb ip.txt -u users.txt -p passwords.txt --continue-on-success 
+```
+
+
 ![[Pasted image 20251212144444.png]]
 
-Found the creds: Nadine : L1k3B1gBut7s@W0rk
+Found the creds:
+
+> Nadine : L1k3B1gBut7s@W0rk
 
 
 Seems like anonymous access can't be done. 
 
 
 
+#### Authenticated SMBMAP
+
+
+![[Pasted image 20251212145335.png]]
+
+
+
+# SSH
+
+Connect to the machine using: `Nadine:L1k3B1gBut7s@W0rk` 
+
+![[Pasted image 20251212161358.png]]
+
+User.flag:
+
+> 62e8424d6caeecfe4b1b873e3004f7f3
+# PrivEsc 
+
 # Custom
 
 
 - Create a userlist:
 	- 
+
+
+# Lessons Learned:
+
+
+1. Spend some time on the intial nmap reseult and make sure to have a footprint of all the services. 
+
+	Not sure why I was bruteforcing SMB when we have port SSH open 🤷‍♂️
+
+2. 
