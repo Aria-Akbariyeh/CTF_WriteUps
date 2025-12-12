@@ -15,7 +15,7 @@
 # 
 
 
-# Attempts
+# Failed Attempts
 
 ```powershell
 
@@ -47,9 +47,20 @@ Running the exploit successfully:
 
 ![[Pasted image 20251211223916.png]]
 
+# Get the flags: 
 
+![[Pasted image 20251212010801.png]]
+
+
+# Flags:
+
+```powershell
+User Flag: d511a46fbcd22123abb216d3ed4f7276
+Root Flag: 3501c6d1d7d741f0248b341b3251197c
+```
 # TODO
 
 - FTP enum
 - Exploit notification system + nishang
 - xclip 
+- 

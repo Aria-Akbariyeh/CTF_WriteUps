@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -325,25 +325,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc873ba32fd20136",
+  "active": "5dca146b27a8cb05",
   "lastOpenFiles": [
-    "THM/Compeleted/Attacktive Directory.md",
+    "HTB/Netmon/attachments/Pasted image 20251212010801.png",
     "THM/Compeleted/THM_Retro.md",
+    "README.md",
+    "THM/Compeleted/Attacktive Directory.md",
     "Hossein/Courses.md",
     "HTB/Netmon/Netmon_report.md",
     "HTB/Netmon/attachments/Pasted image 20251211223916.png",
     "HTB/Netmon/attachments/Pasted image 20251211222519.png",
     "HTB/Netmon/attachments",
-    "HTB/Jeryy/Jerry_report.md",
+    "HTB/Jerry/Jerry_report.md",
     "HTB/Netmon",
-    "HTB/Jeryy/attachments/Pasted image 20251211170234.png",
-    "HTB/Jeryy/attachments/Pasted image 20251211170132.png",
-    "HTB/Jeryy/attachments/Pasted image 20251211165926.png",
-    "HTB/Jeryy/attachments/Pasted image 20251211165550.png",
-    "HTB/Jeryy/attachments/Pasted image 20251211165443.png",
-    "HTB/Jeryy/attachments/Pasted image 20251211160228.png",
-    "HTB/Jeryy/attachments",
-    "HTB/Jeryy",
+    "HTB/Jerry/attachments/Pasted image 20251211170234.png",
+    "HTB/Jerry/attachments/Pasted image 20251211170132.png",
+    "HTB/Jerry/attachments/Pasted image 20251211165926.png",
+    "HTB/Jerry/attachments/Pasted image 20251211165550.png",
+    "HTB/Jerry/attachments/Pasted image 20251211165443.png",
+    "HTB/Jerry/attachments/Pasted image 20251211160228.png",
+    "HTB/Jerry/attachments",
+    "HTB/Jerry",
     "HTB/Markup/Markup_WalkThrough.md",
     "Hossein",
     "HTB/Markup/attachments/Pasted image 20251210173235.png",
@@ -370,8 +372,6 @@
     "Projects/Readily/Readily_ProjectBreif.md",
     "OSCP/Secura.md",
     "HTB/Untitled.md",
-    "THM/Wreath.md",
-    "Projects/Ottaweb/Project RoadMap.md",
-    "Projects/Ottaweb/Project Brief.md"
+    "THM/Wreath.md"
   ]
 }
