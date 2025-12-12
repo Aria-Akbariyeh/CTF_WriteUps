@@ -1,0 +1,85 @@
+body {
+    --file-line-width: 100%; /* Fills the entire editor width */
+}
+
+
+
+
+/* ------------------------------------ */
+
+/* === INLINE CODE (Green) — for reference / matching === */
+.markdown-preview-view :not(pre) > code {
+  background-color: transparent;
+  color: #7CFC00; /* Green */
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 1em;
+  vertical-align: baseline;
+  padding: 0 2px;
+}
+
+.markdown-source-view.mod-cm6 .cm-inline-code {
+  background-color: transparent;
+  color: #7CFC00;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 1em;
+  vertical-align: baseline;
+  padding: 0 2px;
+}
+
+
+/* === LINKS (Blue) — Preview Mode === */
+.markdown-preview-view a.external-link {
+  background-image: none;
+  background-color: transparent;
+  color: #4DA6FF; /* Bright blue */
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 1em;
+  vertical-align: baseline;
+  padding: 0 2px;
+  text-decoration: none;
+}
+
+.markdown-preview-view a.external-link:hover {
+  color: #66CCFF;
+}
+
+/* Brighten external link icon */
+.external-link::after {
+  filter: brightness(2.2);
+}
+
+
+/* === LINKS (Blue) — Editor Mode === */
+.markdown-source-view.mod-cm6 .cm-url {
+  background-image: none !important;
+  background-color: transparent  !important;
+  color: #4DA6FF !important;
+  font-family: monospace !important;
+  font-weight: bold !important;
+  font-size: 1em !important;
+  vertical-align: baseline !important;
+  padding: 0 2px !important;
+  text-decoration: none !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-url:hover {
+  color: #66CCFF !important;
+}
+
+
+/* Preview Mode */
+.markdown-preview-view mark {
+  background-color: #2a2a2a !important;  /* dark background to match theme */
+  color: #ff4c4c !important;             /* soft neon red */
+  font-weight: 600 !important;
+}
+
+/* Source Mode (Editor) */
+.cm-s-obsidian span.cm-highlight {
+  background-color: #2a2a2a !important;
+  color: #ff4c4c !important;
+  font-weight: 600 !important;
+}

@@ -1,0 +1,377 @@
+{
+  "main": {
+    "id": "0f9f80ba33222cc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4cedb17f0c043be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b657df2d64d3768f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Vibe-Coding/2-Implement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-Implement"
+            }
+          },
+          {
+            "id": "a3d9e698b186527c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/LLMs/LLMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLMs"
+            }
+          },
+          {
+            "id": "95aa2aa8b6f4957c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Vibe-Coding/0-SDLC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-SDLC"
+            }
+          },
+          {
+            "id": "5ba63de99d654f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Vibe-Coding/1-Plan & Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-Plan & Design"
+            }
+          },
+          {
+            "id": "ada8dffaf246e65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal_Website/Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design"
+            }
+          },
+          {
+            "id": "22b0db426ded0aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Own Business/My Own business.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Own business"
+            }
+          },
+          {
+            "id": "5dca146b27a8cb05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Netmon/Netmon_report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Netmon_report"
+            }
+          },
+          {
+            "id": "e32f95f351af37d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM/Compeleted/THM_Retro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THM_Retro"
+            }
+          },
+          {
+            "id": "5ceccfa1c8c87db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM/Compeleted/Attacktive Directory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attacktive Directory"
+            }
+          },
+          {
+            "id": "67705f8a6354be29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Blog/Project Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Planning"
+            }
+          },
+          {
+            "id": "4b49bc578defe083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Blog/V1/Specification.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Specification.md"
+            }
+          },
+          {
+            "id": "04e1056167859713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Escape/Escape_Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escape_Report"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3f32bd4a0a678ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba68710967383a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc873ba32fd20136",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44da19fe74f9bf53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4b30f67b64117bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "fd08038377090ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "74073d86ed733b54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "091cb95851bcc46e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "THM/THM_Retro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for THM_Retro"
+            }
+          },
+          {
+            "id": "4ea65df5c777c341",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "THM/THM_Retro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from THM_Retro"
+            }
+          },
+          {
+            "id": "456f5416f796fbed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d54c6b98021bc8f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "THM/THM_Retro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of THM_Retro"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bc873ba32fd20136",
+  "lastOpenFiles": [
+    "THM/Compeleted/Attacktive Directory.md",
+    "THM/Compeleted/THM_Retro.md",
+    "Hossein/Courses.md",
+    "HTB/Netmon/Netmon_report.md",
+    "HTB/Netmon/attachments/Pasted image 20251211223916.png",
+    "HTB/Netmon/attachments/Pasted image 20251211222519.png",
+    "HTB/Netmon/attachments",
+    "HTB/Jeryy/Jerry_report.md",
+    "HTB/Netmon",
+    "HTB/Jeryy/attachments/Pasted image 20251211170234.png",
+    "HTB/Jeryy/attachments/Pasted image 20251211170132.png",
+    "HTB/Jeryy/attachments/Pasted image 20251211165926.png",
+    "HTB/Jeryy/attachments/Pasted image 20251211165550.png",
+    "HTB/Jeryy/attachments/Pasted image 20251211165443.png",
+    "HTB/Jeryy/attachments/Pasted image 20251211160228.png",
+    "HTB/Jeryy/attachments",
+    "HTB/Jeryy",
+    "HTB/Markup/Markup_WalkThrough.md",
+    "Hossein",
+    "HTB/Markup/attachments/Pasted image 20251210173235.png",
+    "HTB/Markup/attachments/Pasted image 20251210173231.png",
+    "Projects/Own Business/My Own business.md",
+    "Projects/Own Business",
+    "HTB/Markup/attachments",
+    "Projects/Personal_Website/Design.md",
+    "Projects/Personal Blog/V1/TODO.md.md",
+    "Projects/Personal_Website",
+    "Projects/Personal Blog/V1/Specification.md.md",
+    "AI/Vibe-Coding/1-Plan & Design.md",
+    "Projects/Personal Blog/Project Planning.md",
+    "Projects/Personal Blog/PersonalBlog_Project_Brief.md",
+    "Projects/Personal Blog/Spec.md",
+    "Projects/Personal Blog/V1",
+    "AI/Vibe-Coding/0-SDLC.md",
+    "HTB/Escape/Escape_Report.md",
+    "AI/LLMs/LLMs.md",
+    "AI/Vibe-Coding/2-Implement.md",
+    "AI/LLMs/MCP (Model-Context-Protocol).md",
+    "AI/LLMs/attachments",
+    "Projects/Chatroom App/ChatroomApp_Project_Brief.md",
+    "Projects/Readily/Readily_ProjectBreif.md",
+    "OSCP/Secura.md",
+    "HTB/Untitled.md",
+    "THM/Wreath.md",
+    "Projects/Ottaweb/Project RoadMap.md",
+    "Projects/Ottaweb/Project Brief.md"
+  ]
+}
