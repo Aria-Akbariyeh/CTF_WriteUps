@@ -4,123 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4cedb17f0c043be",
+        "id": "5899f6309ac9fc50",
         "type": "tabs",
         "children": [
           {
-            "id": "b657df2d64d3768f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Vibe-Coding/2-Implement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2-Implement"
-            }
-          },
-          {
-            "id": "a3d9e698b186527c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/LLMs/LLMs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLMs"
-            }
-          },
-          {
-            "id": "95aa2aa8b6f4957c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Vibe-Coding/0-SDLC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0-SDLC"
-            }
-          },
-          {
-            "id": "5ba63de99d654f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Vibe-Coding/1-Plan & Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-Plan & Design"
-            }
-          },
-          {
-            "id": "ada8dffaf246e65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Personal_Website/Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design"
-            }
-          },
-          {
-            "id": "22b0db426ded0aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Own Business/My Own business.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My Own business"
-            }
-          },
-          {
-            "id": "5dca146b27a8cb05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Compeleted/THM_Retro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "THM_Retro"
-            }
-          },
-          {
-            "id": "b5332f96cdde353d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Vulnet_roasted/THM_Vulnet_Roasted.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "THM_Vulnet_Roasted"
-            }
-          },
-          {
-            "id": "be248730a67dc161",
+            "id": "44ee06902946d642",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,79 +20,8 @@
               "icon": "lucide-file",
               "title": "ServMon"
             }
-          },
-          {
-            "id": "e32f95f351af37d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Compeleted/THM_Retro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "THM_Retro"
-            }
-          },
-          {
-            "id": "5ceccfa1c8c87db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Compeleted/Attacktive Directory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attacktive Directory"
-            }
-          },
-          {
-            "id": "67705f8a6354be29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Personal Blog/Project Planning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Planning"
-            }
-          },
-          {
-            "id": "4b49bc578defe083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Personal Blog/V1/Specification.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Specification.md"
-            }
-          },
-          {
-            "id": "04e1056167859713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/Escape/Escape_Report.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escape_Report"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,12 +170,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "be248730a67dc161",
+  "active": "44ee06902946d642",
   "lastOpenFiles": [
-    "HTB/ServMon/attachments/Pasted image 20251212161358.png",
-    "THM/Vulnet_roasted/THM_Vulnet_Roasted.md",
+    "HTB/ServMon/attachments/Pasted image 20251212200305.png",
+    "HTB/ServMon/attachments/Pasted image 20251212200254.png",
+    "HTB/ServMon/attachments/Pasted image 20251212200146.png",
+    "HTB/ServMon/attachments/Pasted image 20251212200135.png",
+    "HTB/ServMon/attachments/Pasted image 20251212200053.png",
+    "HTB/ServMon/attachments/Pasted image 20251212195908.png",
+    "HTB/ServMon/attachments/Pasted image 20251212193400.png",
+    "HTB/ServMon/attachments/Pasted image 20251212192128.png",
+    "HTB/ServMon/attachments/Pasted image 20251212185317.png",
+    "HTB/ServMon/attachments/Pasted image 20251212182837.png",
+    "HTB/ServMon/attachments/Pasted image 20251212182318.png",
     "HTB/ServMon/ServMon.md",
-    "HTB/ServMon/attachments/Pasted image 20251212145335.png",
+    "HTB/Netmon/Netmon_report.md",
+    "OSCP/Secura.md",
+    "THM/Vulnet_roasted/THM_Vulnet_Roasted.md",
     "THM/cyborg/THM_Cyborg.md",
     "THM/cyborg",
     "THM/Yearoftheowl/THM_Yearoftheowl.md",
@@ -376,15 +204,6 @@
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info",
     "THM/Wreath/CVE-2019-15107/README.md",
     "THM/Wreath/THM_Wreath.md",
-    "HTB/ServMon/attachments/Pasted image 20251212144444.png",
-    "HTB/ServMon/attachments/Pasted image 20251212142536.png",
-    "HTB/ServMon/attachments/Pasted image 20251212142353.png",
-    "HTB/ServMon/attachments/Pasted image 20251212142212.png",
-    "HTB/ServMon/attachments/Pasted image 20251212140413.png",
-    "HTB/ServMon/attachments/Pasted image 20251212140259.png",
-    "HTB/ServMon/attachments/Pasted image 20251212140244.png",
-    "HTB/ServMon/attachments/Pasted image 20251212135100.png",
-    "HTB/Netmon/Netmon_report.md",
     "THM/Wgel_ctf/THM_Wgel_Ctf.md",
     "THM/ToolsRus/THM_ToolsRus.md",
     "THM/Tomghost/THM_Tomghost.md",
@@ -398,8 +217,6 @@
     "THM/Rabbit/THM_Rabbit.md",
     "THM/Pyrat/THM_Pyrat.md",
     "THM/Pickle_Rick_v2/THM_Pickle_Rick_v2.md",
-    "THM/Overpass/THM_Overpass.md",
-    "THM/MrRobot/THM_MrRobot.md",
-    "HTB/Netmon/attachments/Pasted image 20251212030225.png"
+    "THM/Overpass/THM_Overpass.md"
   ]
 }
