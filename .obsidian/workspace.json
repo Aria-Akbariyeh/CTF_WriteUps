@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5899f6309ac9fc50",
+        "id": "5769cbfa7225f1b0",
         "type": "tabs",
         "children": [
           {
-            "id": "44ee06902946d642",
+            "id": "af7a477d9be414f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/ServMon/ServMon.md",
+                "file": "HTB/Support/NMAP_Results.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ServMon"
+              "title": "NMAP_Results"
+            }
+          },
+          {
+            "id": "77418a3c9ca79f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GodSheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GodSheet"
+            }
+          },
+          {
+            "id": "a93e6b6d05158080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Support/Support_Writeup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Support_Writeup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psexec",
+                "query": "rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +199,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "44ee06902946d642",
+  "active": "77418a3c9ca79f1f",
   "lastOpenFiles": [
+    "HTB/Support/NMAP_Results.md",
+    "GodSheet.md",
+    "HTB/Support/Support_Writeup.md",
+    "HTB/Support",
+    "THM/Vulnet_roasted/THM_Vulnet_Roasted.md",
+    "HTB/Chatterbox/Chatterbox_Writeup.md",
+    "HTB/Untitled.md",
+    "HTB/Chatterbox",
+    "HTB/ServMon/ServMon.md",
     "HTB/ServMon/attachments/Pasted image 20251212200305.png",
     "HTB/ServMon/attachments/Pasted image 20251212200254.png",
     "HTB/ServMon/attachments/Pasted image 20251212200146.png",
@@ -182,11 +220,8 @@
     "HTB/ServMon/attachments/Pasted image 20251212192128.png",
     "HTB/ServMon/attachments/Pasted image 20251212185317.png",
     "HTB/ServMon/attachments/Pasted image 20251212182837.png",
-    "HTB/ServMon/attachments/Pasted image 20251212182318.png",
-    "HTB/ServMon/ServMon.md",
     "HTB/Netmon/Netmon_report.md",
     "OSCP/Secura.md",
-    "THM/Vulnet_roasted/THM_Vulnet_Roasted.md",
     "THM/cyborg/THM_Cyborg.md",
     "THM/cyborg",
     "THM/Yearoftheowl/THM_Yearoftheowl.md",
@@ -200,8 +235,6 @@
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src",
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses",
-    "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/idna-3.11.dist-info/licenses",
-    "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info",
     "THM/Wreath/CVE-2019-15107/README.md",
     "THM/Wreath/THM_Wreath.md",
     "THM/Wgel_ctf/THM_Wgel_Ctf.md",
@@ -213,10 +246,6 @@
     "THM/Simple_CTF/THM_Simple_ctf.md",
     "THM/RootMe/THM_RootMe.md",
     "THM/Retro/THM_Retro.md",
-    "THM/Relevant/THM_Relevant.md",
-    "THM/Rabbit/THM_Rabbit.md",
-    "THM/Pyrat/THM_Pyrat.md",
-    "THM/Pickle_Rick_v2/THM_Pickle_Rick_v2.md",
-    "THM/Overpass/THM_Overpass.md"
+    "THM/Relevant/THM_Relevant.md"
   ]
 }
