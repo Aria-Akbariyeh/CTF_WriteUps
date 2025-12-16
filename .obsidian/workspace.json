@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GodSheet.md",
+                "file": "CS_Methodology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GodSheet"
+              "title": "CS_Methodology"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,27 +199,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "77418a3c9ca79f1f",
+  "active": "a93e6b6d05158080",
   "lastOpenFiles": [
-    "HTB/Support/NMAP_Results.md",
-    "GodSheet.md",
+    "HTB/Support/attachments/Pasted image 20251215213039.png",
+    "HTB/Support/attachments/Pasted image 20251215212841.png",
+    "CS_Methodology.md",
     "HTB/Support/Support_Writeup.md",
+    "HTB/Support/attachments/Pasted image 20251215212216.png",
+    "HTB/Support/attachments/Pasted image 20251215212209.png",
+    "HTB/Support/attachments/Pasted image 20251215211911.png",
+    "HTB/Support/attachments/Pasted image 20251215211844.png",
+    "HTB/Support/attachments/Pasted image 20251215211815.png",
+    "HTB/Support/attachments/Pasted image 20251215210125.png",
+    "HTB/Support/attachments/Pasted image 20251215205919.png",
+    "HTB/Support/attachments/Pasted image 20251215205710.png",
+    "HTB/Support/attachments/Pasted image 20251215204653.png",
+    "HTB/Support/attachments",
+    "HTB/Support/NMAP_Results.md",
     "HTB/Support",
     "THM/Vulnet_roasted/THM_Vulnet_Roasted.md",
     "HTB/Chatterbox/Chatterbox_Writeup.md",
     "HTB/Untitled.md",
     "HTB/Chatterbox",
     "HTB/ServMon/ServMon.md",
-    "HTB/ServMon/attachments/Pasted image 20251212200305.png",
-    "HTB/ServMon/attachments/Pasted image 20251212200254.png",
-    "HTB/ServMon/attachments/Pasted image 20251212200146.png",
-    "HTB/ServMon/attachments/Pasted image 20251212200135.png",
-    "HTB/ServMon/attachments/Pasted image 20251212200053.png",
-    "HTB/ServMon/attachments/Pasted image 20251212195908.png",
-    "HTB/ServMon/attachments/Pasted image 20251212193400.png",
-    "HTB/ServMon/attachments/Pasted image 20251212192128.png",
-    "HTB/ServMon/attachments/Pasted image 20251212185317.png",
-    "HTB/ServMon/attachments/Pasted image 20251212182837.png",
     "HTB/Netmon/Netmon_report.md",
     "OSCP/Secura.md",
     "THM/cyborg/THM_Cyborg.md",
@@ -234,7 +236,6 @@
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src/pip",
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src",
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
-    "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses",
     "THM/Wreath/CVE-2019-15107/README.md",
     "THM/Wreath/THM_Wreath.md",
     "THM/Wgel_ctf/THM_Wgel_Ctf.md",
@@ -245,7 +246,6 @@
     "THM/Skynet/THM_Skynet.md",
     "THM/Simple_CTF/THM_Simple_ctf.md",
     "THM/RootMe/THM_RootMe.md",
-    "THM/Retro/THM_Retro.md",
-    "THM/Relevant/THM_Relevant.md"
+    "THM/Retro/THM_Retro.md"
   ]
 }
