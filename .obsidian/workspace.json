@@ -27,12 +27,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS_Methodology.md",
+                "file": "CS_lvl1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS_Methodology"
+              "title": "CS_lvl1"
+            }
+          },
+          {
+            "id": "c1ab6437032f8c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS_lvl3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS_lvl3"
+            }
+          },
+          {
+            "id": "91bd336e204c08b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS_lvl2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS_lvl2"
+            }
+          },
+          {
+            "id": "020c66345f2ed93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheets/Utility_CS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Utility_CS"
             }
           },
           {
@@ -50,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +241,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc873ba32fd20136",
+  "active": "020c66345f2ed93a",
   "lastOpenFiles": [
+    "CheatSheets/NMAP_CS.md",
+    "CheatSheets/Utility_CS.md",
+    "CS_lvl3.md",
+    "CS_lvl1.md",
+    "CheatSheets",
+    "CS_lvl2.md",
+    "CS_lvl2",
+    "HTB/Support/Support_Writeup.md",
     "OSCP/Untitled",
     "HTB/Support/attachments/Pasted image 20251215213039.png",
     "HTB/Support/attachments/Pasted image 20251215212841.png",
-    "CS_Methodology.md",
-    "HTB/Support/Support_Writeup.md",
     "HTB/Support/attachments/Pasted image 20251215212216.png",
     "HTB/Support/attachments/Pasted image 20251215212209.png",
     "HTB/Support/attachments/Pasted image 20251215211911.png",
@@ -232,9 +280,6 @@
     "THM/Yearofthejellyfish/yearoftheowl2",
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna",
-    "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor",
-    "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src/pip",
-    "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src",
     "THM/Wreath/CVE-2019-15107/venv/lib/python3.13/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
     "THM/Wreath/CVE-2019-15107/README.md",
     "THM/Wreath/THM_Wreath.md",
@@ -243,9 +288,6 @@
     "THM/Tomghost/THM_Tomghost.md",
     "THM/Steelmountain/THM_Steelmountain.md",
     "THM/Startup/THM_Startup.md",
-    "THM/Skynet/THM_Skynet.md",
-    "THM/Simple_CTF/THM_Simple_ctf.md",
-    "THM/RootMe/THM_RootMe.md",
-    "THM/Retro/THM_Retro.md"
+    "THM/Skynet/THM_Skynet.md"
   ]
 }

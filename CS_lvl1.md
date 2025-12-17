@@ -1,4 +1,6 @@
 
+
+
 # NMAP
 
 ```powershell
@@ -12,6 +14,7 @@ sudo nmap -p- -oN all_ports $ip
 sudo nmap -p customPorts -sCV -oN ports_numers $ip
 
 ```
+
 
 # SMB
 
