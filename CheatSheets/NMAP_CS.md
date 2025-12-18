@@ -14,11 +14,13 @@ cd /usr/share/nmap/scripts/
 cat /usr/share/nmap/scripts/script.db  | grep "\"vuln\""
 # Categories: https://nmap.org/book/nse-usage.html
 
+# Run a specific script:
+sudo nmap -p80 --script=http-enum 192.168.50.20
+
 # Run a specific category of scripts:
 sudo nmap -sV -p 443 --script "vuln" 192.168.50.124
 ' NOTE: --script requires -sV as nmap takes its output and make a request to vulners.com api.
 ' More information is here: https://nmap.org/nsedoc/scripts/vulners.html
-
 
 # Testing for a specific vulnerability using namp
 # Step 1: Download the related NSE script. Example:
