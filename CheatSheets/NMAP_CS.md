@@ -1,7 +1,19 @@
 
 
 
+# NMAP Methodology
 
+
+```powershell
+# intial
+sudo nmap -sCV -oN intial $ip
+
+# full
+sudo nmap -p- -oN all_ports $ip
+
+# custom
+sudo nmap -p customPorts -sCV -oN ports_numers $ip
+```
 
 # NMAP Scripts:
 
@@ -13,6 +25,9 @@ cd /usr/share/nmap/scripts/
 # Search for different scrips using script.db
 cat /usr/share/nmap/scripts/script.db  | grep "\"vuln\""
 # Categories: https://nmap.org/book/nse-usage.html
+
+# search for scripts of a specific service:
+locate .nse | grep ftp
 
 # Run a specific script:
 sudo nmap -p80 --script=http-enum 192.168.50.20
