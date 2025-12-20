@@ -8,281 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77418a3c9ca79f1f",
+            "id": "894b79853b5af460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS_lvl1.md",
+                "file": "HTB/ServMon/ServMon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS_lvl1"
+              "title": "ServMon"
             }
           },
           {
-            "id": "c1ab6437032f8c1a",
+            "id": "e04ed8f13084dbc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS_lvl3.md",
+                "file": "CheatSheets/PostgreSQL_CS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS_lvl3"
+              "title": "PostgreSQL_CS"
             }
           },
           {
-            "id": "91bd336e204c08b8",
+            "id": "ce882a4670394fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS_lvl2.md",
+                "file": "CheatSheets/Shells/PHP_SHELL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS_lvl2"
+              "title": "PHP_SHELL"
             }
           },
           {
-            "id": "c797834c0db6b961",
+            "id": "dca2abaa8810d219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheets/Mongodb_CS.md",
+                "file": "CheatSheets/Linux_LocalEnum_CS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mongodb_CS"
+              "title": "Linux_LocalEnum_CS"
             }
           },
           {
-            "id": "02f41aea406f8e7b",
+            "id": "2377341fa6b62dd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheets/Rsync_cs.md",
+                "file": "CheatSheets/Shells/Bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rsync_cs"
-            }
-          },
-          {
-            "id": "020c66345f2ed93a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Rev_Shell_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rev_Shell_CS"
-            }
-          },
-          {
-            "id": "393e2229b9ccdff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/MySQL_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MySQL_CS"
-            }
-          },
-          {
-            "id": "4d3f2e0dd1df2100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Important_Files_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Important_Files_CS"
-            }
-          },
-          {
-            "id": "c8ed5504c1981a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/FTP_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FTP_CS"
-            }
-          },
-          {
-            "id": "dfc9787dabffdf2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Hash_Cracking_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hash_Cracking_CS"
-            }
-          },
-          {
-            "id": "f71e952ada105cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Commands_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commands_CS"
-            }
-          },
-          {
-            "id": "d67e51f33a3a8ebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/URL_Discovery_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "URL_Discovery_CS"
-            }
-          },
-          {
-            "id": "f3ee47caeaa557f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/RDP_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RDP_CS"
-            }
-          },
-          {
-            "id": "1facc4a74ddd3436",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "HTB/Escape/attachments/Pasted image 20251130124131.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251130124131"
-            }
-          },
-          {
-            "id": "87d3ccb53e289dc8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "HTB/Escape/attachments/Pasted image 20251130124314.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251130124314"
-            }
-          },
-          {
-            "id": "f8987425cb6bf590",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "HTB/Escape/attachments/Pasted image 20251203222703.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251203222703"
-            }
-          },
-          {
-            "id": "92b3d10bb239ebc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Redis_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redis_CS"
-            }
-          },
-          {
-            "id": "fc1153bd8a2e259c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Curl_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curl_CS"
-            }
-          },
-          {
-            "id": "8f3346a1f57988c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/NMAP_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NMAP_CS"
-            }
-          },
-          {
-            "id": "a93e6b6d05158080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/Support/Support_Writeup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Support_Writeup"
+              "title": "Bash"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -431,11 +227,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "d67e51f33a3a8ebd",
+  "active": "e04ed8f13084dbc9",
   "lastOpenFiles": [
+    "CheatSheets/SSH_CS.md",
+    "CheatSheets/PostgreSQL_CS.md",
+    "CheatSheets/Linux_LocalEnum_CS.md",
+    "CheatSheets/Shells/PHP_SHELL.md",
+    "CheatSheets/Shells/Bash.md",
+    "HTB/ServMon/ServMon.md",
     "CheatSheets/Commands_CS.md",
-    "CheatSheets/URL_Discovery_CS.md",
+    "CheatSheets/Hydra.md",
+    "CheatSheets/FTP_CS.md",
     "CheatSheets/Hash_Cracking_CS.md",
+    "CheatSheets/AWS_CS.md",
+    "CheatSheets/Shells/Untitled",
+    "CheatSheets/Shells",
+    "CheatSheets/attachments/Pasted image 20251219212913.png",
+    "CheatSheets/attachments",
+    "CheatSheets/URL_Discovery_CS.md",
     "CheatSheets/WAPT_CS.md",
     "HTB/Escape/attachments/Pasted image 20251203222703.png",
     "HTB/Escape/attachments/Pasted image 20251130124314.png",
@@ -444,7 +253,6 @@
     "CheatSheets/MySQL_CS.md",
     "CheatSheets/Mongodb_CS.md",
     "CheatSheets/Redis_CS.md",
-    "CheatSheets/FTP_CS.md",
     "CheatSheets/Important_Files_CS.md",
     "CheatSheets/Rsync_cs.md",
     "CheatSheets/Creds_CS.md",
@@ -454,13 +262,9 @@
     "CheatSheets/Rev_Shell_CS.md",
     "CheatSheets/Curl_CS.md",
     "CheatSheets/Files_CS.md",
-    "HTB/Support/NMAP_Results.md",
     "Untitled",
-    "CS_lvl2.md",
-    "CS_lvl3.md",
     "CheatSheets",
     "CS_lvl2",
-    "HTB/Support/Support_Writeup.md",
     "OSCP/Untitled",
     "HTB/Support/attachments/Pasted image 20251215213039.png",
     "HTB/Support/attachments/Pasted image 20251215212841.png",
@@ -468,16 +272,8 @@
     "HTB/Support/attachments/Pasted image 20251215212209.png",
     "HTB/Support/attachments/Pasted image 20251215211911.png",
     "HTB/Support/attachments/Pasted image 20251215211844.png",
-    "HTB/Support/attachments/Pasted image 20251215211815.png",
     "HTB/Support/attachments",
     "HTB/Support",
-    "THM/Vulnet_roasted/THM_Vulnet_Roasted.md",
-    "HTB/Chatterbox/Chatterbox_Writeup.md",
-    "HTB/Untitled.md",
-    "HTB/Chatterbox",
-    "HTB/ServMon/ServMon.md",
-    "THM/cyborg",
-    "THM/Yearoftheowl",
-    "THM/Yearofthejellyfish/yearoftheowl2"
+    "HTB/Chatterbox"
   ]
 }
