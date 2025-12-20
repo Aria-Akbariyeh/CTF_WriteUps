@@ -1,7 +1,14 @@
 
+
+# Login form
+
 ```powershell
 
-# login forms - SQL
+# Default creds
+admin:admin
+admin:password
+
+# login forms - SQL injection
 admin'# 
 
 # Special characters:

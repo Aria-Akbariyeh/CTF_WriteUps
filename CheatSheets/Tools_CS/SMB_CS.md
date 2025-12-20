@@ -9,6 +9,7 @@ nxc smb $ip --shares
 nxc smb $ip -u '' -p '' --shares             
 nxc smb $ip -u 'guest' -p '' --shares       
 nxc smb $ip -u 'anonymous' -p '' --shares
+nxc smb $ip -u 'username' -p 'password' --shares
 
 # Access
 smbclient -N //$ip/sharename
