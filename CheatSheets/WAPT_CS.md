@@ -1,5 +1,9 @@
 
 ```powershell
+
+# login forms - SQL
+admin'# 
+
 # Special characters:
 < > ' " { } ;
 
@@ -56,6 +60,9 @@ Linux:
 	# 
 	
 	
+	
+	
+	../../../../../../../../windows/system32/drivers/etc/hosts
  
  
  

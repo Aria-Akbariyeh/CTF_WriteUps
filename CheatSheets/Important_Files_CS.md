@@ -14,7 +14,17 @@ C:/Windows/system32/license.rtf
 C:\Windows\SoftwareDistribution\Download
 ```
 
-# LFI
+
+# LFI -V1
+
+```powershell
+# ------------- windows ------------
+# C:\Windows\System32\drivers\etc\hosts
+../../../../../../../../windows/system32/drivers/etc/hosts 
+
+
+```
+# LFI - V2
 
 ```powershell
 
