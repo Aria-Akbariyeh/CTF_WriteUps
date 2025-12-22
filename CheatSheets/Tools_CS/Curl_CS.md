@@ -6,7 +6,11 @@
 
 # ------- HTTP -------------
 curl "http/https:url" # Simple http / https request
+# if no response returned, check the header:
 curl -i "url" # see the response header
+# If the response header is 302, it means the page is redirecting. Follow the redirection:
+curl -L "url"
+
 curl -v "url" # see the request and response header
 curl --path-as "url" # Disable  URL-decoding (include characters like /%252e%252e/ (/../))
 curl "url" -O # Capital O: save the file with its remote name
