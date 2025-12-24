@@ -2,8 +2,9 @@
 ```powershell
 
 # Normal login
-ssh username@$ip  # passwor is opitional 
- 
+ssh username@$ip  
+ssh username@$ip  -p2345 # on a specific port
+
 # login with password (quick bruteforce)
 sshpass -f <filename> ssh username@$ip  # password is stored in a file
 sshpass -p <passowrd> ssh username@$ip  # dangerous as the pass is visible. 
@@ -45,4 +46,6 @@ ssh> -L 8443:127.0.0.1:8443
 # -L local port forwarding
 # <localport>:<localIP>:<forwardport>
 ```
+
+
 

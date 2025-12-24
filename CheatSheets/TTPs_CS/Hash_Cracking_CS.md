@@ -1,13 +1,39 @@
 
+# John-specific
+```powershell
 
+# Show all cracked passwords from a hash file
+john --show hash.txt
+
+# Show all existing cracked hashes
+~/.john/john.pot
+# you might want to remove it if needed
+rm ~/.john/john.pot
+
+```
+
+
+# Hashcat-specific
+```powershell
+# Show existing cracked passwords. 
+hashcat --show hashes.txt
+
+# or use --potfile-disable flag to show passwords again:
+
+
+hashcat -d 1 # CPU mode
+hashcat -d 2 # GPU mode
+```
 # Identify Hashes
 
 ```powershell
-# name-that-hash:
-nth --text 'hash'
 
 # hashcat
 hashcat --identify 'hash'
+
+
+# name-that-hash:
+nth --text 'hash'
 
 # hash-identifier
 echo 'hash' | hash-identifier
@@ -25,11 +51,11 @@ hashid 'hash'
 
 # For Net-NTLMv1
 john --format=netntlm --wordlist=rockyou.txt hash.txt
-hashcat -m 5500 -a 3 hash.txt
+hashcat -m 5500 -a 3 hash.txt # -a 3 is burteforce without wordlist
 
 # For Net-NTLMv2
 john --format=netntlmv2 --wordlist=rockyou.txt hash.txt
-hashcat -m 5600 -a 3 hash.txt
+hashcat -m 5600 -a 3 hash.txt # -a 3 is burteforce without wordlist
 
 ```
 

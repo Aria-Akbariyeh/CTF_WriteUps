@@ -20,4 +20,12 @@ psql -U christine -h localhost -p 1234 # -p  is port
 # Query a table
 SELECT * FROM <TableName>;
 
+
+# Copy query result in a file:
+\o result.log # -- Redirect all subsequent output to a file
+SELECT * FROM cwd_user; # -- Run your query
+\o # -- Turn off output redirection
+
+# One-liner:
+\o result.log \ SELECT * FROM cwd_user; \o
 ```
