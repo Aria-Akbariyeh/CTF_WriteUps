@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Pivoting_Exercises/OSCP_Pivot_1.md",
+                "file": "CheatSheets/Tools_CS/ProxyChains_CS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSCP_Pivot_1"
+              "title": "ProxyChains_CS"
             }
           },
           {
@@ -87,6 +87,34 @@
               },
               "icon": "lucide-file",
               "title": "SSH_CS"
+            }
+          },
+          {
+            "id": "e287b44e0443c00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Secura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secura"
+            }
+          },
+          {
+            "id": "e88e600fa8fc1f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheets/TTPs_CS/Hash_Cracking_CS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hash_Cracking_CS"
             }
           },
           {
@@ -160,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ss \"",
+                "query": "find / -name",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +241,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -309,8 +338,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "8054e4305dc6c5fa",
+  "active": "e88e600fa8fc1f16",
   "lastOpenFiles": [
+    "OSCP/Secura 2.md",
+    "OSCP/Secura.md",
+    "OSCP/Pivoting_CS/SSH_CS.md",
+    "OSCP/Pivoting_CS/attachments/Pasted image 20251226182326.png",
+    "OSCP/Pivoting_CS/attachments/Pasted image 20251226181422.png",
+    "OSCP/Pivoting_CS/attachments/Pasted image 20251226180607.png",
+    "CheatSheets/Linux_commands/Linux_Fundametals_cs.md",
+    "CheatSheets/Tools_CS/ProxyChains_CS.md",
+    "OSCP/Pivoting_Exercises/OSCP_Pivot_1.md",
+    "OSCP/Pivoting_Exercises/19_3_1_SSH_PF_E2.md",
+    "CheatSheets/Shells_CS/Rev_Shell_CS.md",
     "OSCP/Pivoting_CS/attachments/Pasted image 20251224152320.png",
     "OSCP/Pivoting_CS/attachments/Pasted image 20251224152254.png",
     "OSCP/Pivoting_CS/Socat_CS.md",
@@ -319,26 +359,19 @@
     "OSCP/Pivoting_CS/attachments",
     "CheatSheets/Tools_CS/socat_cs.md",
     "OSCP/Untitled 1",
-    "OSCP/Pivoting_CS/SSH_CS.md",
     "CheatSheets/Tools_CS/SSH_CS.md",
     "CheatSheets/attachments/Pasted image 20251219212913.png",
     "OSCP/Pivoting_CS",
     "CheatSheets/Tools_CS/SMB_CS.md",
     "CheatSheets/Tools_CS/attachments/Pasted image 20251223145015.png",
     "CheatSheets/Tools_CS/attachments/Pasted image 20251223150409.png",
-    "OSCP/Pivoting_Exercises/19_3_1_SSH_PF_E2.md",
-    "OSCP/Pivoting_Exercises/OSCP_Pivot_1.md",
     "CheatSheets/TTPs_CS/Pivoting_On_Linux_CS.md",
-    "CheatSheets/Linux_commands/Linux_Fundametals_cs.md",
     "CheatSheets/TTPs_CS/Linux_LocalEnum_CS.md",
     "CheatSheets/TTPs_CS/Commands_CS.md",
-    "CheatSheets/Shells_CS/Rev_Shell_CS.md",
-    "OSCP/Pivoting_Exercises/attachments/Pasted image 20251223155725.png",
     "OSCP/Pivoting_Exercises/attachments",
     "CheatSheets/Tools_CS/attachments",
     "OSCP/P.md",
     "OSCP/Pivoting_Exercises",
-    "OSCP/Secura 2.md",
     "CheatSheets/Tools_CS/PostgreSQL_CS.md",
     "CheatSheets/JTR_CS.md",
     "THM/Retro/THM_Retro.md",
@@ -350,12 +383,8 @@
     "CheatSheets/JTR",
     "Untitled",
     "CheatSheets/Tools_CS/Hydra_CS.md",
-    "OSCP/attachments/Pasted image 20251220161329.png",
     "CheatSheets/TTPs_CS/WAPT_CS.md",
     "CheatSheets/TTPs_CS/URL_Discovery_CS.md",
-    "CheatSheets/Shells_CS/Bash.md",
-    "CheatSheets/TTPs_CS/Important_Files_CS.md",
-    "OSCP/attachments/Pasted image 20251220155717.png",
-    "OSCP/attachments/Pasted image 20251220155630.png"
+    "CheatSheets/Shells_CS/Bash.md"
   ]
 }

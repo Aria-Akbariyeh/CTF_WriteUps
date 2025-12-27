@@ -3,8 +3,16 @@
 # Upgrade/Stabilize Shell
 
 ```powershell
+# ---------------- Test -----------------------
+[ -t 0 ] && [ -t 1 ] && [[ $- == *i* ]] && echo "Good shell" || echo "Need pty"
+
 # -----------Technique 1 (for linux)-------------
+
 python -c 'import pty;pty.spawn("/bin/bash")' #might need to select the python version (python,python2,python3)
+# or spawn a /bin/sh:
+python3 -c 'import pty; pty.spawn("/bin/sh")'
+
+
 export TERM=xterm #gives us access to term commands such as 'clear'
 CTRL+Z #background the session 
 #in your own terminal:
