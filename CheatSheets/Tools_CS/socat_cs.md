@@ -23,4 +23,17 @@ socat -ddd TCP-LISTEN:2345,fork TCP:10.4.176.215:5432
 ```
 
 
+# Extra - Sshuttle:
+
+
+```powershell
+'sshuttle  requires root privileges on the SSH client and Python3 on the SSH server, so its not always the most lightweight option
+
+# With this command executed after socat port forwaring:
+sshuttle -r database_admin@192.168.50.63:2222 10.4.50.0/24 172.16.50.0/24
+
+#  it should have set up the routing on our Kali machine so that any requests we make to hosts in the subnets we specified will be pushed transparently through the SSH connection:
+# From attackbox you can access both networks now:
+smbclient -L //172.16.50.217/ -U hr_admin --password=Welcome1234
+```
 
