@@ -4,233 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "5769cbfa7225f1b0",
+        "id": "f880623aac3eba07",
         "type": "tabs",
         "children": [
           {
-            "id": "7e4829322f82de80",
+            "id": "6c178b760770a745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheets/Tools_CS/ProxyChains_CS.md",
+                "file": "HTB/Forest/Forest_Attempt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ProxyChains_CS"
+              "title": "Forest_Attempt"
             }
           },
           {
-            "id": "8d598433cea6b727",
+            "id": "c310502554005b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheets/TTPs_CS/Linux_LocalEnum_CS.md",
+                "file": "HTB/Forest/Forest_writeup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux_LocalEnum_CS"
+              "title": "Forest_writeup"
             }
           },
           {
-            "id": "cb9c6df276c92bc3",
+            "id": "101c29209fcd0539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Pivoting_Exercises/19_3_1_SSH_PF_E2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19_3_1_SSH_PF_E2"
+              "title": "README"
             }
           },
           {
-            "id": "1bb2a114316380e7",
+            "id": "d53fda7826e14a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Pivoting_CS/Socat_CS.md",
+                "file": "OSCP/Secura 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Socat_CS"
+              "title": "Secura 2"
             }
           },
           {
-            "id": "707bc60ca374b39c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "CheatSheets/attachments/Pasted image 20251219212913.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251219212913"
-            }
-          },
-          {
-            "id": "8054e4305dc6c5fa",
+            "id": "4eee52c8101aafc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Pivoting_CS/SSH_CS.md",
+                "file": "OSCP/P.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH_CS"
+              "title": "P"
             }
           },
           {
-            "id": "e287b44e0443c00a",
+            "id": "a8146be61dc30132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Secura.md",
+                "file": "THM/AttackingKerberos/THM_AttackingKerberos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secura"
-            }
-          },
-          {
-            "id": "e88e600fa8fc1f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/TTPs_CS/Hash_Cracking_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hash_Cracking_CS"
-            }
-          },
-          {
-            "id": "d463000f6869223a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Tools_CS/SSH_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSH_CS"
-            }
-          },
-          {
-            "id": "abf56c573c16575c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Tools_CS/SMB_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SMB_CS"
-            }
-          },
-          {
-            "id": "ced0933c9a1849ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Tools_CS/Plink_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plink_CS"
-            }
-          },
-          {
-            "id": "a0727e73e1dbe051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Linux_commands/Linux_Fundametals_cs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux_Fundametals_cs"
-            }
-          },
-          {
-            "id": "3cb90e83095f8f01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Tools_CS/socat_cs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "socat_cs"
-            }
-          },
-          {
-            "id": "34189b6647883f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/TTPs_CS/Commands_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commands_CS"
-            }
-          },
-          {
-            "id": "b8ff98d1729b3822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/Shells_CS/Rev_Shell_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rev_Shell_CS"
-            }
-          },
-          {
-            "id": "39e535f29494133d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/TTPs_CS/Pivoting_On_Linux_CS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pivoting_On_Linux_CS"
+              "title": "THM_AttackingKerberos"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GetAD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -379,53 +241,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "ced0933c9a1849ef",
+  "active": "101c29209fcd0539",
   "lastOpenFiles": [
-    "CheatSheets/Tools_CS/socat_cs.md",
-    "CheatSheets/Linux_commands/Linux_Fundametals_cs.md",
-    "CheatSheets/Tools_CS/Plink_CS.md",
-    "CheatSheets/Shells_CS/Rev_Shell_CS.md",
-    "CheatSheets/Tools_CS/SSH_CS.md",
-    "CheatSheets/TTPs_CS/Hash_Cracking_CS.md",
-    "OSCP/Secura 2.md",
-    "OSCP/Secura.md",
-    "OSCP/Pivoting_CS/SSH_CS.md",
-    "OSCP/Pivoting_CS/attachments/Pasted image 20251226182326.png",
-    "OSCP/Pivoting_CS/attachments/Pasted image 20251226181422.png",
-    "OSCP/Pivoting_CS/attachments/Pasted image 20251226180607.png",
-    "CheatSheets/Tools_CS/ProxyChains_CS.md",
-    "OSCP/Pivoting_Exercises/OSCP_Pivot_1.md",
-    "OSCP/Pivoting_Exercises/19_3_1_SSH_PF_E2.md",
-    "OSCP/Pivoting_CS/attachments/Pasted image 20251224152320.png",
-    "OSCP/Pivoting_CS/attachments/Pasted image 20251224152254.png",
-    "OSCP/Pivoting_CS/Socat_CS.md",
-    "OSCP/Pivoting_CS/attachments/Pasted image 20251224152215.png",
-    "OSCP/Pivoting_CS/attachments/Pasted image 20251224152212.png",
-    "OSCP/Pivoting_CS/attachments",
-    "OSCP/Untitled 1",
-    "CheatSheets/attachments/Pasted image 20251219212913.png",
-    "OSCP/Pivoting_CS",
-    "CheatSheets/Tools_CS/SMB_CS.md",
-    "CheatSheets/Tools_CS/attachments/Pasted image 20251223145015.png",
-    "CheatSheets/Tools_CS/attachments/Pasted image 20251223150409.png",
+    "THM/AttackingKerberos/THM_AttackingKerberos.md",
+    "CheatSheets/TTPs_CS/URL_Discovery_CS.md",
     "CheatSheets/TTPs_CS/Pivoting_On_Linux_CS.md",
     "CheatSheets/TTPs_CS/Linux_LocalEnum_CS.md",
+    "CheatSheets/TTPs_CS/Important_Files_CS.md",
+    "CheatSheets/TTPs_CS/Hash_Cracking_CS.md",
     "CheatSheets/TTPs_CS/Commands_CS.md",
+    "CheatSheets/JTR_CS.md",
+    "OSCP/P.md",
+    "OSCP/Secura 2.md",
+    "README.md",
+    "CS_lvl3.md",
+    "CS_lvl2.md",
+    "CS_lvl1.md",
+    "HTB/Forest/Forest_writeup.md",
+    "HTB/Forest/attachments/Pasted image 20260109132010.png",
+    "HTB/Forest/attachments/Pasted image 20260109131849.png",
+    "HTB/Forest/attachments/Pasted image 20260109131731.png",
+    "HTB/Forest/Forest_Attempt.md",
+    "HTB/Forest/attachments/Pasted image 20260108174458.png",
+    "HTB/Forest/attachments",
+    "HTB/Forest",
+    "HTB/Active/Active_Writeup.md",
+    "HTB/Active/attachments/Pasted image 20260107190229.png",
+    "HTB/Active/attachments/Pasted image 20260107190031.png",
+    "HTB/Active/attachments/Pasted image 20260107190023.png",
+    "HTB/Active/attachments/Pasted image 20260107185954.png",
+    "CheatSheets/Tools_CS/SMB_CS.md",
+    "CheatSheets/Tools_CS/RDP_CS.md",
+    "HTB/Active/attachments/Pasted image 20260105152158.png",
+    "HTB/Active/attachments/Pasted image 20260105142903.png",
+    "HTB/Active/attachments",
+    "CheatSheets/Tools_CS/Plink_CS.md",
+    "HTB/Active",
+    "CheatSheets/Tools_CS/socat_cs.md",
+    "CheatSheets/Linux_commands/Linux_Fundametals_cs.md",
+    "CheatSheets/Shells_CS/Rev_Shell_CS.md",
+    "CheatSheets/Tools_CS/SSH_CS.md",
+    "OSCP/Secura.md",
+    "OSCP/Pivoting_CS/SSH_CS.md",
+    "OSCP/Pivoting_CS/attachments",
+    "OSCP/Untitled 1",
+    "OSCP/Pivoting_CS",
     "OSCP/Pivoting_Exercises/attachments",
     "CheatSheets/Tools_CS/attachments",
-    "OSCP/P.md",
-    "OSCP/Pivoting_Exercises",
-    "CheatSheets/Tools_CS/PostgreSQL_CS.md",
-    "CheatSheets/JTR_CS.md",
-    "THM/Retro/THM_Retro.md",
-    "CheatSheets/Linux_commands",
-    "Untitled 1",
-    "CheatSheets/Tools_CS/Curl_CS.md",
-    "Untitled 1.md",
-    "CheatSheets/JTR",
-    "Untitled",
-    "CheatSheets/Tools_CS/Hydra_CS.md",
-    "CheatSheets/TTPs_CS/WAPT_CS.md",
-    "CheatSheets/TTPs_CS/URL_Discovery_CS.md"
+    "OSCP/Pivoting_Exercises"
   ]
 }
